@@ -1,2 +1,0 @@
-username = shashank01
-passwd = tsh02
